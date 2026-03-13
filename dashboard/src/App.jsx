@@ -1,5 +1,5 @@
 import { useState } from "react";
-import data from "../../scraper/data.json";
+import data from "../scraper/data.json";
 import "./App.css";
 
 function App() {
